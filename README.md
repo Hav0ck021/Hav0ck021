@@ -7,8 +7,8 @@ Olá! Meu nome é Caio Gabriel, também conhecido como Hav0ck021. Tenho certa ex
 Hi! My name is Caio Gabriel, a.k.a. Hav0ck021. I have some experience with building algorithms, from the basics to building security tools. My focus is cybersecurity, where I'm working, and I'm currently in the third period of college. 🤗
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hav0ck021&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hav0ck021" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hav0ck021&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hav0ck021&layout=compact&langs_count=8&card_width=320" />
 </a>
